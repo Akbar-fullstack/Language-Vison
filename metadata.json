@@ -1,0 +1,6 @@
+{
+  "name": "Language Vision",
+  "description": "Premium 3D Educational Platform for Language Vision with interactive 3D Globe, Achievement Box, Admissions CRM, and Telegram Bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
